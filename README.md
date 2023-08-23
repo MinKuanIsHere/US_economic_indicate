@@ -3,6 +3,10 @@
 美國的經濟指標一直是世界的焦點，包含聯準會(Fed)的利率、CPI、核心CPI、非農就業人數、道瓊指數。
 可藉由這五個指標繪製時間序列的線圖，並用相關係數觀察。
 
+![指標線圖](https://github.com/MinKuanIsHere/US_economic_indicate/blob/main/us_indicate.png)
+
+![指標相關係數](https://github.com/MinKuanIsHere/US_economic_indicate/blob/main/correlation.png)
+
 |資料名稱|描述|
 |-----|-----|
 |usCPI年增率.csv|美國CPI年增率|
